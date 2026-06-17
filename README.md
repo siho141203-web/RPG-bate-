@@ -188,7 +188,7 @@ function startBattle(){
 function playerAttack(){
 
     if(!inBattle){
-        log("⚠️ 마물을 발견하지 않았다.");
+        log("⚠️ 사냥 먼저!");
         return;
     }
 
